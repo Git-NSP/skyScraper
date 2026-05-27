@@ -1,0 +1,37 @@
+[
+    {
+        "file_name": "image_1.jpg",
+        "width": 3000,
+        "height": 2197,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_10.jpg",
+        "width": 3000,
+        "height": 4500,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_3.jpg",
+        "width": 3000,
+        "height": 5333,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_5.jpg",
+        "width": 3000,
+        "height": 2647,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_8.jpg",
+        "width": 3000,
+        "height": 2000,
+        "source": "unsplash",
+        "category": "living_room"
+    }
+]

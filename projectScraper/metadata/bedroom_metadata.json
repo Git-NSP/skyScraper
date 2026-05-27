@@ -1,0 +1,23 @@
+[
+    {
+        "file_name": "image_1.jpg",
+        "width": 3000,
+        "height": 2000,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_3.jpg",
+        "width": 3000,
+        "height": 2031,
+        "source": "unsplash",
+        "category": "living_room"
+    },
+    {
+        "file_name": "image_5.jpg",
+        "width": 3000,
+        "height": 2250,
+        "source": "unsplash",
+        "category": "living_room"
+    }
+]
