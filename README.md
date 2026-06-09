@@ -21,7 +21,7 @@ So the scraping part is actually the easiest 10%. What are you actually trying t
 From what you described, the end goal sounds like: “Take images/videos and automatically generate explorable 3D environments.”
 
 That means your system has roughly 5 major stages.
-
+-----------------------------------------------------------------------------------
 Full pipeline
 Stage 1 — Data Collection (Scraping)
 Goal: Collect images/videos
@@ -143,7 +143,6 @@ point cloud
 mesh
 Gaussian splats
 textured geometry
-
 -----------------------------------------------------------------------------------
 
 Stage 4 — Environment Generation
@@ -184,7 +183,6 @@ Now it becomes:
 explorable
 trainable
 game-like
-
 -----------------------------------------------------------------------------------
 
 Stage 5 — Robot/AI Training
